@@ -1,3 +1,5 @@
+// LeetCode #1
+
 func twoSum(nums []int, target int) []int {
     checkNums := map[int]int{}
     for key, val := range nums {
